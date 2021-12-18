@@ -1154,3 +1154,547 @@ Received Import Request.
 Start importing Assets/2DGamekit/Prefabs/MainCamera.prefab using Guid(bb0018ce3a8caa643b44f8487c34bd25) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '91d28fab6c92b0d2b1922bf5eb9aba15') in 0.014724 seconds 
   Import took 0.020016 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 6203.102825 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline
+  artifactKey: Guid(6961e1fb2b953c7498bb8a7a795b5574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline using Guid(6961e1fb2b953c7498bb8a7a795b5574) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607e2d5988d7eea87fa81c130a8a87c7') in 0.002943 seconds 
+  Import took 0.009542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.060362 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene1Timeline.playable
+  artifactKey: Guid(e0370d49e45befd49bd8caf1af498575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene1Timeline.playable using Guid(e0370d49e45befd49bd8caf1af498575) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf00dffafd3ee21b54745da1e30d8637') in 0.012991 seconds 
+  Import took 0.019851 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000413 seconds.
+  path: Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene2Timeline.playable
+  artifactKey: Guid(7d624d33590bb7c4988da22985cb5263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Timeline/Zone4Cutscene2Timeline.playable using Guid(7d624d33590bb7c4988da22985cb5263) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7ed9918f70cda2e42e0e43bc2e3bbe30') in 0.025668 seconds 
+  Import took 0.061284 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004412 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.027 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1030ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (35ms)
+		EndReloadAssembly (851ms)
+			LoadAssemblies (88ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (263ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (40ms)
+			SetupLoadedEditorAssemblies (361ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (8ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (258ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2018 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.7 MB.
+System memory in use after: 106.9 MB.
+
+Unloading 115 unused Assets to reduce memory usage. Loaded Objects now: 2861.
+Total: 3.396500 ms (FindLiveObjects: 0.249600 ms CreateObjectMapping: 0.078600 ms MarkObjects: 3.017800 ms  DeleteObjects: 0.049800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004399 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.024 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1025ms)
+		BeginReloadAssembly (115ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (30ms)
+		EndReloadAssembly (849ms)
+			LoadAssemblies (89ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (266ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (39ms)
+			SetupLoadedEditorAssemblies (359ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (9ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (79ms)
+				ProcessInitializeOnLoadAttributes (259ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2018 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2864.
+Total: 3.006800 ms (FindLiveObjects: 0.197400 ms CreateObjectMapping: 0.078900 ms MarkObjects: 2.713900 ms  DeleteObjects: 0.015700 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 138.669538 seconds.
+  path: Assets/2DGamekit/Scripts/Runner/GameManager.cs
+  artifactKey: Guid(3445bab6f8d5b664cab8831d216e02d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/Runner/GameManager.cs using Guid(3445bab6f8d5b664cab8831d216e02d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731241582192d353123401660c5df150') in 0.004766 seconds 
+  Import took 0.010902 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020355 seconds.
+  path: Assets/2DGamekit/Scripts/Runner/GameManager.cs
+  artifactKey: Guid(3445bab6f8d5b664cab8831d216e02d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/Runner/GameManager.cs using Guid(3445bab6f8d5b664cab8831d216e02d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '731241582192d353123401660c5df150') in 0.002145 seconds 
+  Import took 0.007888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 181.514500 seconds.
+  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani-SemiBold SDF UIButton.mat
+  artifactKey: Guid(c64de538f27a5b342a025d5db50d19cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani-SemiBold SDF UIButton.mat using Guid(c64de538f27a5b342a025d5db50d19cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4813574873eaf8c82cba2031140bc14a') in 0.066865 seconds 
+  Import took 0.073270 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000414 seconds.
+  path: Assets/2DGamekit/Utilities/Fonts/Rajdhani-SemiBold SDF.asset
+  artifactKey: Guid(4c1f115f2c9b80b4cabb22cae230db1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Utilities/Fonts/Rajdhani-SemiBold SDF.asset using Guid(4c1f115f2c9b80b4cabb22cae230db1c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '01863bdb8d6bd0922b73c138beb18a4e') in 0.051797 seconds 
+  Import took 0.057737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 136.852514 seconds.
+  path: Assets/Scenes/endlessRunner.unity
+  artifactKey: Guid(ab948059a3160b54bbfe501f7f4932b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/endlessRunner.unity using Guid(ab948059a3160b54bbfe501f7f4932b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '232da7ade1f17ccfc190eb8b9e3625e3') in 0.002991 seconds 
+  Import took 0.009297 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.432595 seconds.
+  path: Assets/Scenes/SampleScene.unity
+  artifactKey: Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scenes/SampleScene.unity using Guid(2cda990e2423bbf4892e6590ba056729) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '53640b17da4ad43061988b5c9c06bcc7') in 0.002811 seconds 
+  Import took 0.008785 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 70.138835 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Ellen/Ellen-Endless-Runner.controller
+  artifactKey: Guid(420f2b373cf161c46ad3f2c0fdde64ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Ellen/Ellen-Endless-Runner.controller using Guid(420f2b373cf161c46ad3f2c0fdde64ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '849368ee014f33fc844bb8e7e8b572be') in 0.007259 seconds 
+  Import took 0.014059 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.312647 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenCutsceneImage.controller
+  artifactKey: Guid(228edf468d7393e4d8452f80c542fb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenCutsceneImage.controller using Guid(228edf468d7393e4d8452f80c542fb85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '002e8c848a75029e965d2766691fdac2') in 0.019629 seconds 
+  Import took 0.065281 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.198237 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenDeathEffect.controller
+  artifactKey: Guid(95e1487dd55102042a8ec1a03fa064ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenDeathEffect.controller using Guid(95e1487dd55102042a8ec1a03fa064ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '90925157858b0fc28a86cd6b36665808') in 0.006143 seconds 
+  Import took 0.069484 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.423950 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenHurtEffect.controller
+  artifactKey: Guid(e6d811e1f6dfcd247ac0fa75186762b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenHurtEffect.controller using Guid(e6d811e1f6dfcd247ac0fa75186762b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a916252c172fe388bda99d32dfb875e2') in 0.030960 seconds 
+  Import took 0.112745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.159331 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenPush.controller
+  artifactKey: Guid(6408c3077d4204944a6451f38cd1f7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenPush.controller using Guid(6408c3077d4204944a6451f38cd1f7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9324d109ffad6bd80d3be33defd5865') in 0.003094 seconds 
+  Import took 0.008509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000714 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenPush.controller
+  artifactKey: Guid(6408c3077d4204944a6451f38cd1f7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Ellen/EllenPush.controller using Guid(6408c3077d4204944a6451f38cd1f7e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9324d109ffad6bd80d3be33defd5865') in 0.002736 seconds 
+  Import took 0.007831 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.934298 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Enemies
+  artifactKey: Guid(974f306136cd2fb408ee5bf861150965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Enemies using Guid(974f306136cd2fb408ee5bf861150965) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '10debe705752fe4719265ba8df0e52be') in 0.054093 seconds 
+  Import took 0.060412 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.986960 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Enemies/Gunner
+  artifactKey: Guid(4c2702b71b4eff542b64b224b811fdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Enemies/Gunner using Guid(4c2702b71b4eff542b64b224b811fdd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '388586166450c740237476c09476a626') in 0.029403 seconds 
+  Import took 0.049437 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.806567 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Enemies/Chomper.controller
+  artifactKey: Guid(379fc8d7910868541878c8a34170d498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Enemies/Chomper.controller using Guid(379fc8d7910868541878c8a34170d498) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dff964675db0df6f291b44eaaacacd23') in 0.043547 seconds 
+  Import took 0.063696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.110846 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Enemies/Spitter.controller
+  artifactKey: Guid(023b9afcbf08ab842a4336a7069f6afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Enemies/Spitter.controller using Guid(023b9afcbf08ab842a4336a7069f6afb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cb6ed493616e9860283aa15438b8e0dd') in 0.005244 seconds 
+  Import took 0.011605 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.379946 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Interactables/Bridge.controller
+  artifactKey: Guid(15d23c7d2b8e50e45bf7d114677cf99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Interactables/Bridge.controller using Guid(15d23c7d2b8e50e45bf7d114677cf99b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a21ce0fd0a2a6b234f9ab7c8b2c5b607') in 0.029068 seconds 
+  Import took 0.039341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 49.136347 seconds.
+  path: Assets/2DGamekit/Art/Animations/Animators/Ellen/Ellen.controller
+  artifactKey: Guid(b09e60546065cf9448b36ebb7f759a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Animations/Animators/Ellen/Ellen.controller using Guid(b09e60546065cf9448b36ebb7f759a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'af6070bb08a42a3919f97d7b72ef752b') in 0.030066 seconds 
+  Import took 0.064583 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004275 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.069 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1070ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (34ms)
+		EndReloadAssembly (892ms)
+			LoadAssemblies (99ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (277ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (45ms)
+			SetupLoadedEditorAssemblies (363ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (81ms)
+				ProcessInitializeOnLoadAttributes (262ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (10ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.55 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2018 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 17 unused Assets to reduce memory usage. Loaded Objects now: 2870.
+Total: 3.211400 ms (FindLiveObjects: 0.248200 ms CreateObjectMapping: 0.089900 ms MarkObjects: 2.854000 ms  DeleteObjects: 0.018500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 44.523531 seconds.
+  path: Assets/2DGamekit/Prefabs/ObstacleSpawner.prefab
+  artifactKey: Guid(055b078bbd28a5344babb4b02eba771c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/ObstacleSpawner.prefab using Guid(055b078bbd28a5344babb4b02eba771c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf9e986262b460357b0ab3249ac21a1f') in 0.036922 seconds 
+  Import took 0.042232 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.311435 seconds.
+  path: Assets/2DGamekit/Prefabs/UIManager.prefab
+  artifactKey: Guid(bb1bfc82a0bdad945b48a5c735f4cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIManager.prefab using Guid(bb1bfc82a0bdad945b48a5c735f4cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3988e4d9938d3f4ecf7331aa9fe994d4') in 0.027405 seconds 
+  Import took 0.032287 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020497 seconds.
+  path: Assets/2DGamekit/Prefabs/UIManager.prefab
+  artifactKey: Guid(bb1bfc82a0bdad945b48a5c735f4cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/UIManager.prefab using Guid(bb1bfc82a0bdad945b48a5c735f4cc17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3988e4d9938d3f4ecf7331aa9fe994d4') in 0.004484 seconds 
+  Import took 0.021574 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 23.748466 seconds.
+  path: Assets/2DGamekit/Prefabs/GameOver.prefab
+  artifactKey: Guid(3010f9f9e9f119d46b56ac405f65a4bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/GameOver.prefab using Guid(3010f9f9e9f119d46b56ac405f65a4bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '066ad1bc9462152e81e6717c14c658e2') in 0.069326 seconds 
+  Import took 0.074657 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.185420 seconds.
+  path: Assets/2DGamekit/Prefabs/GamePlayUI.prefab
+  artifactKey: Guid(d7730c77b3447224e98dbf35666cd448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Prefabs/GamePlayUI.prefab using Guid(d7730c77b3447224e98dbf35666cd448) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5d930d5ee77dd6e7bd03f5108b21a58d') in 0.022661 seconds 
+  Import took 0.028139 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004391 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Native extension for OSXStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.233 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1234ms)
+		BeginReloadAssembly (105ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (6ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (33ms)
+		EndReloadAssembly (1068ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (299ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (49ms)
+			SetupLoadedEditorAssemblies (422ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (7ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (96ms)
+				ProcessInitializeOnLoadAttributes (301ms)
+				ProcessInitializeOnLoadMethodAttributes (6ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (12ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2017 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 106.2 MB.
+System memory in use after: 106.4 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 2872.
+Total: 3.168900 ms (FindLiveObjects: 0.205800 ms CreateObjectMapping: 0.082100 ms MarkObjects: 2.855400 ms  DeleteObjects: 0.024300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 121.755286 seconds.
+  path: Assets/2DGamekit/Scripts/Runner/moveForward.cs
+  artifactKey: Guid(13db23629034eb64f881a42bad160141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Scripts/Runner/moveForward.cs using Guid(13db23629034eb64f881a42bad160141) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b9e7378e619e7d25eb914ad4400721') in 0.004978 seconds 
+  Import took 0.010931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 262.794408 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_0.asset
+  artifactKey: Guid(d2dc4b19da8d4b640a42fd54476238bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_0.asset using Guid(d2dc4b19da8d4b640a42fd54476238bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '44263403da26efd0c9d86aa4a5887b59') in 0.039827 seconds 
+  Import took 0.046212 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000516 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_1.asset
+  artifactKey: Guid(8419e408a1d6a97409e08ff572eaa913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_1.asset using Guid(8419e408a1d6a97409e08ff572eaa913) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3657b217cbb061aee836a700e3d246a2') in 0.018379 seconds 
+  Import took 0.023368 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 43.035080 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_4.asset
+  artifactKey: Guid(262ec4f4ac6e882448c745b498206369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_4.asset using Guid(262ec4f4ac6e882448c745b498206369) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '847dd853a3b21a3e94f0dc363e7531f8') in 0.015172 seconds 
+  Import took 0.020538 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000482 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_6.asset
+  artifactKey: Guid(746b0b58e111e51498170d3c9271d136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_6.asset using Guid(746b0b58e111e51498170d3c9271d136) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ae904922bd690e9ce3cad8a093a93bc6') in 0.012337 seconds 
+  Import took 0.017780 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000373 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_5.asset
+  artifactKey: Guid(30b8c5a65057dfc4bb47b3d8b8837734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers_5.asset using Guid(30b8c5a65057dfc4bb47b3d8b8837734) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '24fba21438aa4302a52ba486b82e261c') in 0.010736 seconds 
+  Import took 0.015887 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 132.570369 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_WallLeftCeilingCorner3.asset
+  artifactKey: Guid(fb150c38010f0b342835edb26c8d27ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_WallLeftCeilingCorner3.asset using Guid(fb150c38010f0b342835edb26c8d27ad) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7cbb734c994e6af66c73a2e22197314') in 0.084825 seconds 
+  Import took 0.093691 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000531 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_WallLeftCeilingCorner4.asset
+  artifactKey: Guid(b70a4b0813615e74baf1a455ec3f0845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_WallLeftCeilingCorner4.asset using Guid(b70a4b0813615e74baf1a455ec3f0845) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7f35e78001b09208e80573c65f6d36b') in 0.062820 seconds 
+  Import took 0.071919 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000527 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_WallLeftCeilingCorner5.asset
+  artifactKey: Guid(7ea034cdf0d20044da8688db6b5a5129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_WallLeftCeilingCorner5.asset using Guid(7ea034cdf0d20044da8688db6b5a5129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b009ecbf4a83506e31b72bbab9e283b8') in 0.061124 seconds 
+  Import took 0.069542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 33.579976 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_FloorSingleBlock6.asset
+  artifactKey: Guid(3a4486183ff397e499ce456352119730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_FloorSingleBlock6.asset using Guid(3a4486183ff397e499ce456352119730) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4023fe0ea047856622f8eb80554fb272') in 0.088504 seconds 
+  Import took 0.097337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 24.304351 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_FloorSingleBlock.asset
+  artifactKey: Guid(82e3c4405963b7a468dafb9470a157ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_FloorSingleBlock.asset using Guid(82e3c4405963b7a468dafb9470a157ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f91149fad154e2e9a2168b5a84af2799') in 0.080539 seconds 
+  Import took 0.090415 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 47.447360 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_Floor3.asset
+  artifactKey: Guid(5dddda7f72c49334db96a3e420d7ebc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/Tileset_Rock_Floor3.asset using Guid(5dddda7f72c49334db96a3e420d7ebc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8e17bdde6d8ae71442c97c617fc377ff') in 0.078760 seconds 
+  Import took 0.088039 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 667.473695 seconds.
+  path: Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers.png
+  artifactKey: Guid(19ddc710aa1f2fd44bfe558f9bcf95f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/2DGamekit/Art/Sprites/Environment/Tilesets/TilesetRock_WaterBlockers.png using Guid(19ddc710aa1f2fd44bfe558f9bcf95f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1f48d5952deeff2c8ead21e0a2f79ca') in 0.073207 seconds 
+  Import took 0.080005 seconds .
+
